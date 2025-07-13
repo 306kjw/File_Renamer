@@ -1,7 +1,7 @@
 # File Renamer
 
 A simple GUI-based tool for batch renaming files in a folder.  
-Written in Python using `tkinter`, this utility allows users to rename files with customizable naming rules such as file extension, digit count, starting number, prefix, and suffix.
+Written in Python using `tkinter`, this utility allows users to rename files with customizable naming rules such as file extension, digit count, starting number, prefix, and suffix. The tool automatically increments the number in the filename according to the specified starting number and digit format.
 
 ---
 
