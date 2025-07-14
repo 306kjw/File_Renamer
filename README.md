@@ -46,4 +46,4 @@ Renamed files:
 
 If running from source:
 ```bash
-python File_Renamer.py
+python File_Renamer_1.0.0.py
